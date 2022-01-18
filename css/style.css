@@ -374,11 +374,11 @@ a:hover, a:active, a:focus {
 #single-project .col-md-6,
 #single-project .col-md-4 {
   padding-left: 0px;
-  padding-bottom: 2px;
+  padding-bottom: 12px;
 }
 
 #single-project .col-md-12 {
-  padding-top: 2px;
+  padding-top: 12px;
 }
 
 #single-project .text-center strong {
